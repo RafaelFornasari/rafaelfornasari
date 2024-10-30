@@ -1,11 +1,11 @@
 <h1 align="center">OI 👋, eu sou Rafael Fornasari</h1>
 <h3 align="center">Apaixonado por análise de dados</h3>
 
-- 🔭 Atualmente estou estudando análise e visualização de dados **CoderHouse Data Analytics**
+- 🔭 Atualmente estou estudando **Python para análise de dados**
 
-- 🌱 Atualmente estou aprendendo **SQL, PowerBI, Data Studio e Python para análise de dados**
+- 🌱 Sou especialista em **SQL, Data Studio e Database management**
 
-- 💬 Me pergunte sobre **SQL, análise e tratamento de dados, excel e PowerBi**
+- 💬 Me pergunte sobre **SQL, análise e tratamento de dados, excel e Data Studio**
 
 - 📫 Você me acha em **rafaelfrns@gmail.com**
 
