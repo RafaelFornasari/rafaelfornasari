@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando **Python para análise de dados**
 
-- 🌱 Sou especialista em **SQL, Data Studio e Database management**
+- 🌱 Sou especialista em **Análise Dados | SQL | Data Studio | Excel | ETL**
 
 - 💬 Me pergunte sobre **SQL, análise e tratamento de dados, excel e Data Studio**
 
