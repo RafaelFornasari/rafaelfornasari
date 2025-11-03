@@ -1,15 +1,12 @@
-<h1 align="center">OI 👋, eu sou Rafael Fornasari</h1>
-<h3 align="center">Apaixonado por análise de dados</h3>
+<h1 align="center">👋 Olá, eu sou Rafael Fornasari</h1>
+<h3 align="center">Engineer Analytics | Business Intelligence | Data-Driven Systems</h3>
 
-- 🔭 Atualmente estou estudando **Python para análise de dados**
+- 🚀 Atualmente atuo no desenvolvimento de **ecossistemas de dados e dashboards analíticos**
+- 🧠 Experiência em **ETL, SQL, Python, BigQuery, Looker Studio e automações com Apps Script**
+- 💡 Apaixonado por estruturar dados que **contam histórias e guiam decisões**
+- 📫 Contato: **rafaelfrns@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-fornasari-de-paula-a73583a4/)
 
-- 🌱 Sou especialista em **Análise Dados | SQL | Data Studio | Excel | ETL**
-
-- 💬 Me pergunte sobre **SQL, análise e tratamento de dados, excel e Data Studio**
-
-- 📫 Você me acha em **rafaelfrns@gmail.com**
-
-- 📄 Recém formado em engenharia de produção pela Federal do Rio Grande do Norte e para maiores informações profissionais segue meu LinkedIn [https://www.linkedin.com/in/rafael-fornasari-de-paula-a73583a4/](https://www.linkedin.com/in/rafael-fornasari-de-paula-a73583a4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
